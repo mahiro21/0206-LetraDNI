@@ -22,7 +22,7 @@ package org.japo.java.main;
 public class Main {
     
     public static void main(String[] args){
-    System.out.printf("La la letra de mi DNI es la %c", 'K');
+    System.out.printf("Mi DNI es %d %c ", 45911057, 'K');
     
     }
 }
