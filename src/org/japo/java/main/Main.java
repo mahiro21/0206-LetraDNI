@@ -20,9 +20,9 @@ package org.japo.java.main;
  * @author Mario Merlos Abella <mario.merlos.alum@iescamp.es>
  */
 public class Main {
-    
-    public static void main(String[] args){
-    System.out.printf("Mi DNI es %d %c ", 45911057, 'K');
-    
+
+    public static void main(String[] args) {
+        System.out.printf("Mi DNI es %d %c ", 45911057, 'K');
+
     }
 }
